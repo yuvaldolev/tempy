@@ -1,7 +1,10 @@
 [package]
 name = "tempy"
 version = "0.1.0"
+authors = ["Yuval Dolev"]
 edition = "2021"
+description = "A Rust bump allocator with temporary scopes support"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
